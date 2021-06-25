@@ -10,7 +10,16 @@
 
 	<name>musicalbum</name>
 	<description>Demo project for Spring PCF</description>
-
+       <repository>
+  <id>wissenADOTest</id>
+  <url>https://pkgs.dev.azure.com/wissenADOTest/_packaging/wissenADOTest/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
