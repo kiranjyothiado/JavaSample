@@ -1,9 +1,9 @@
 Prerequisites:
 </br>
-Register or log into your Azure DevOps account
-Copy and save the Git URL for the sample java code from Github
-Create an Azure Web App (Note: choose the following options for this Java web app. OS = Linux, Runtime Stack = JRE 8)
-
+Register or log into your Azure DevOps account</br>
+Copy and save the Git URL for the sample java code from Github</br>
+Create an Azure Web App (Note: choose the following options for this Java web app. OS = Linux, Runtime Stack = JRE 8)</br>
+</br>
 1. Create a Project and Git Repository
 On the Azure DevOps projects page, click "New Project" then enter your project name. 
 Select "Git" in the "Version Control" drop-down, then click the "Create" button to continue
